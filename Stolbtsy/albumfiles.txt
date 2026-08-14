@@ -1,0 +1,29 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+Bridge.jpg		1429634533
+WoodHandlers.jpg		1429634533
+dock.jpg		1429634533
+FiremanShmuel.JPG		1429634533
+CatholicChurch.jpg		1429634533
+MarketSquare.jpg		1429634533
+Market.JPG		1429634533
+Butcher.jpg		1429634533
+NemanShore.jpg		1429634533
+Panorama.jpg		1429634533
+FirstStation.jpg		1429634533
+Railway.JPG		1429634533
+Railway2.jpg		1429634533
+Train.jpg		1429634533
+Street.JPG		1429634533
+StreetScene2.jpg		1429634533
+Hotel.JPG		1429634533
+Synagogue.JPG		1429634533
+Synagogue2.jpg		1429634533
+cemetery.jpg		1429634533
+Memorial.jpg		1429634533

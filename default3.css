@@ -1,0 +1,24 @@
+
+BODY,P,TD{
+	font: 18px ARIAL BOLD
+}
+body{
+	 
+	background:url("parchment.jpg")
+}
+a:link{
+	color:blue;
+	text-decoration:none
+}
+a:visited{
+	color: blue;
+	text-decoration:none
+}
+a:hover{
+	color:red;
+	text-decoration:none
+}
+a:active{
+	color:blue;
+	text-decoration:none
+}

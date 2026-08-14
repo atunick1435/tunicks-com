@@ -1,0 +1,37 @@
+
+BODY,P,TD{
+	font: 18px ARIAL
+		
+}
+
+
+
+
+
+body{
+font-weight: bold;
+
+}
+body{
+	background:url("back.JPG") 
+}
+a:link{
+	color:blue;
+	text-decoration:none
+}
+a:visited{
+	color: blue;
+	text-decoration:none
+}
+a:hover{
+	color:red;
+	text-decoration:none
+}
+a:active{
+	color:blue;
+	text-decoration:none
+}
+
+blockquote {
+    margin-left: 75px;   /* Left margin */
+}

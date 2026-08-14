@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Stolbtsy</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Bridge</title>
+            <link>slides/Bridge.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Wooden Bridge
+postcard circa 1925</description>
+            <media:description type="html">Wooden Bridge
+postcard circa 1925</media:description>
+            <media:thumbnail url="thumbs/Bridge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bridge.jpg" width="500" height="316"/>
+            <guid isPermaLink="false">slides/Bridge.jpg</guid>
+        </item>
+        <item>
+            <title>WoodHandlers</title>
+            <link>slides/WoodHandlers.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Wood Handlers
+Photo courtesy of Zvi Blusztein</description>
+            <media:description type="html">Wood Handlers
+Photo courtesy of Zvi Blusztein</media:description>
+            <media:thumbnail url="thumbs/WoodHandlers.jpg" width="124" height="124"/>
+            <media:content  url="slides/WoodHandlers.jpg" width="446" height="375"/>
+            <guid isPermaLink="false">slides/WoodHandlers.jpg</guid>
+        </item>
+        <item>
+            <title>dock</title>
+            <link>slides/dock.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Dock
+circa 1920-1940</description>
+            <media:description type="html">Dock
+circa 1920-1940</media:description>
+            <media:thumbnail url="thumbs/dock.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/dock.jpg" width="480" height="312"/>
+            <guid isPermaLink="false">slides/dock.jpg</guid>
+        </item>
+        <item>
+            <title>FiremanShmuel</title>
+            <link>slides/FiremanShmuel.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Fireman Shmuel</description>
+            <media:description type="html">Fireman Shmuel</media:description>
+            <media:thumbnail url="thumbs/FiremanShmuel.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/FiremanShmuel.JPG" width="237" height="334"/>
+            <guid isPermaLink="false">slides/FiremanShmuel.JPG</guid>
+        </item>
+        <item>
+            <title>CatholicChurch</title>
+            <link>slides/CatholicChurch.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Catholic Church</description>
+            <media:description type="html">Catholic Church</media:description>
+            <media:thumbnail url="thumbs/CatholicChurch.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CatholicChurch.jpg" width="640" height="421"/>
+            <guid isPermaLink="false">slides/CatholicChurch.jpg</guid>
+        </item>
+        <item>
+            <title>MarketSquare</title>
+            <link>slides/MarketSquare.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Market Square
+postcard circa 1925</description>
+            <media:description type="html">Market Square
+postcard circa 1925</media:description>
+            <media:thumbnail url="thumbs/MarketSquare.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/MarketSquare.jpg" width="800" height="515"/>
+            <guid isPermaLink="false">slides/MarketSquare.jpg</guid>
+        </item>
+        <item>
+            <title>Market</title>
+            <link>slides/Market.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Market Day</description>
+            <media:description type="html">Market Day</media:description>
+            <media:thumbnail url="thumbs/Market.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Market.JPG" width="481" height="303"/>
+            <guid isPermaLink="false">slides/Market.JPG</guid>
+        </item>
+        <item>
+            <title>Butcher</title>
+            <link>slides/Butcher.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Market Day
+Butcher Shop circled may have been owned by Tunik
+</description>
+            <media:description type="html">Market Day
+Butcher Shop circled may have been owned by Tunik
+</media:description>
+            <media:thumbnail url="thumbs/Butcher.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Butcher.jpg" width="480" height="362"/>
+            <guid isPermaLink="false">slides/Butcher.jpg</guid>
+        </item>
+        <item>
+            <title>NemanShore</title>
+            <link>slides/NemanShore.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Neman River Shoreline 1937</description>
+            <media:description type="html">Neman River Shoreline 1937</media:description>
+            <media:thumbnail url="thumbs/NemanShore.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/NemanShore.jpg" width="796" height="600"/>
+            <guid isPermaLink="false">slides/NemanShore.jpg</guid>
+        </item>
+        <item>
+            <title>Panorama</title>
+            <link>slides/Panorama.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Neman Riverat Stolbtsy</description>
+            <media:description type="html">Neman Riverat Stolbtsy</media:description>
+            <media:thumbnail url="thumbs/Panorama.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Panorama.jpg" width="720" height="405"/>
+            <guid isPermaLink="false">slides/Panorama.jpg</guid>
+        </item>
+        <item>
+            <title>FirstStation</title>
+            <link>slides/FirstStation.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>First Railway Station
+circa 1870</description>
+            <media:description type="html">First Railway Station
+circa 1870</media:description>
+            <media:thumbnail url="thumbs/FirstStation.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/FirstStation.jpg" width="266" height="188"/>
+            <guid isPermaLink="false">slides/FirstStation.jpg</guid>
+        </item>
+        <item>
+            <title>Railway</title>
+            <link>slides/Railway.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Train Station
+circa 1920 - 1940
+</description>
+            <media:description type="html">Train Station
+circa 1920 - 1940
+</media:description>
+            <media:thumbnail url="thumbs/Railway.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Railway.JPG" width="496" height="308"/>
+            <guid isPermaLink="false">slides/Railway.JPG</guid>
+        </item>
+        <item>
+            <title>Railway2</title>
+            <link>slides/Railway2.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Train Station
+circa 1920 - 1940
+</description>
+            <media:description type="html">Train Station
+circa 1920 - 1940
+</media:description>
+            <media:thumbnail url="thumbs/Railway2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Railway2.jpg" width="479" height="321"/>
+            <guid isPermaLink="false">slides/Railway2.jpg</guid>
+        </item>
+        <item>
+            <title>Train</title>
+            <link>slides/Train.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Train</description>
+            <media:description type="html">Train</media:description>
+            <media:thumbnail url="thumbs/Train.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Train.jpg" width="800" height="514"/>
+            <guid isPermaLink="false">slides/Train.jpg</guid>
+        </item>
+        <item>
+            <title>Street</title>
+            <link>slides/Street.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Street Scene</description>
+            <media:description type="html">Street Scene</media:description>
+            <media:thumbnail url="thumbs/Street.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Street.JPG" width="484" height="294"/>
+            <guid isPermaLink="false">slides/Street.JPG</guid>
+        </item>
+        <item>
+            <title>StreetScene2</title>
+            <link>slides/StreetScene2.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Street Scene</description>
+            <media:description type="html">Street Scene</media:description>
+            <media:thumbnail url="thumbs/StreetScene2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/StreetScene2.jpg" width="800" height="516"/>
+            <guid isPermaLink="false">slides/StreetScene2.jpg</guid>
+        </item>
+        <item>
+            <title>Hotel</title>
+            <link>slides/Hotel.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Hotel
+Owned by Shulkin &amp; Miltsenson
+circa 1920-1940
+</description>
+            <media:description type="html">Hotel
+Owned by Shulkin &amp; Miltsenson
+circa 1920-1940
+</media:description>
+            <media:thumbnail url="thumbs/Hotel.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Hotel.JPG" width="480" height="266"/>
+            <guid isPermaLink="false">slides/Hotel.JPG</guid>
+        </item>
+        <item>
+            <title>Synagogue</title>
+            <link>slides/Synagogue.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Great Synagogue
+Reconstructed 1875 </description>
+            <media:description type="html">Great Synagogue
+Reconstructed 1875 </media:description>
+            <media:thumbnail url="thumbs/Synagogue.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Synagogue.JPG" width="508" height="351"/>
+            <guid isPermaLink="false">slides/Synagogue.JPG</guid>
+        </item>
+        <item>
+            <title>Synagogue2</title>
+            <link>slides/Synagogue2.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Synagogue 2006</description>
+            <media:description type="html">Synagogue 2006</media:description>
+            <media:thumbnail url="thumbs/Synagogue2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Synagogue2.jpg" width="600" height="450"/>
+            <guid isPermaLink="false">slides/Synagogue2.jpg</guid>
+        </item>
+        <item>
+            <title>cemetery</title>
+            <link>slides/cemetery.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Jewish Cemetery 2006</description>
+            <media:description type="html">Jewish Cemetery 2006</media:description>
+            <media:thumbnail url="thumbs/cemetery.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/cemetery.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/cemetery.jpg</guid>
+        </item>
+        <item>
+            <title>Memorial</title>
+            <link>slides/Memorial.html</link>
+            <pubDate>Thu, 23 Apr 2015 15:05:30 -0700</pubDate>
+            <description>Holocaust Memorial 2007</description>
+            <media:description type="html">Holocaust Memorial 2007</media:description>
+            <media:thumbnail url="thumbs/Memorial.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Memorial.jpg" width="797" height="600"/>
+            <guid isPermaLink="false">slides/Memorial.jpg</guid>
+        </item>
+    </channel>
+</rss>

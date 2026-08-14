@@ -1,0 +1,23 @@
+
+BODY,P,TD{
+	font:bold 18px ARIAL BOLD
+}
+body{
+	background:url("cem.jpg")
+}
+a:link{
+	color:blue;
+	text-decoration:none
+}
+a:visited{
+	color: blue;
+	text-decoration:none
+}
+a:hover{
+	color:red;
+	text-decoration:none
+}
+a:active{
+	color:blue;
+	text-decoration:none
+}
